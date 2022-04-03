@@ -115,10 +115,12 @@ Endpoint:
 
 ### Speech To Text
 
-https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/#features
+<https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/#features>
 
 ### Text to Speech
 
-https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/rest-text-to-speech
+<https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/rest-text-to-speech>
+
+<https://github.com/Azure-Samples/cognitive-services-speech-sdk>
 
 
