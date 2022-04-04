@@ -2,6 +2,11 @@
 ## This lab is made out of 9 units.  Please follow the instructions and links below to complete the lab.
 ## Please ask questions during the lab at any time to both your instructors.
 
+## Azure Machine Learning Cheat Sheet
+
+[Cheat Sheet](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet)
+
+
 # Use Automated Machine Learning in Azure Machine Learning
 
 Start here https://docs.microsoft.com/en-us/learn/modules/use-automated-machine-learning/ 
